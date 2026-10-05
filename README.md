@@ -13,7 +13,9 @@ Werkt op macOS 15 (Sequoia) of nieuwer, op Macs met een Apple-chip én op Intel-
    en download de modellen die in de instellingen van MAKAI staan (een chatmodel en een embeddingmodel).
 2. **Uitpakken**: dubbelklik op het gedownloade `.zip`-bestand. Je krijgt een map met twee apps:
    **makai** en **MAKAI Launcher**.
-3. **Verplaatsen**: sleep **beide** apps naar de map **Programma's**. Ze moeten in dezelfde map staan.
+3. **Verplaatsen**: sleep **beide** apps in de Finder naar de map **Apps** (heette vroeger Programma's).
+   Ze moeten in dezelfde map staan. Open ze pas daarna, en pak de zip niet direct in de map Apps uit:
+   anders draait macOS de apps vanuit een tijdelijke kopie (de launcher lost dat sinds versie 0.2.4 zelf op).
 4. **Eerste keer openen**: open **MAKAI Launcher**. macOS waarschuwt dat de app niet geopend kan worden,
    omdat hij niet uit de App Store komt. Dat is eenmalig:
    - Klik op **Gereed**.

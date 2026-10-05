@@ -20,8 +20,7 @@ Werkt op macOS 15 (Sequoia) of nieuwer, op Macs met een Apple-chip én op Intel-
    - Open **Systeeminstellingen → Privacy en beveiliging** en scroll naar beneden.
    - Klik bij "MAKAI Launcher" op **Open toch** en bevestig.
    - Klik in de launcher op **Start MAKAI**. Krijg je dezelfde melding voor **makai**? Doe dan hetzelfde voor makai.
-5. **Koppelen**: kies in de menubalk **MAKAI Launcher → GitHub koppelen…** en plak de sleutel die je van de
-   beheerder krijgt. De launcher haalt dan de kennis en de systeemprompt op in de map `Documenten/makai_rag`
+5. **Koppelen**: klik in de launcher op **Koppelen** en plak de sleutel die je van de beheerder krijgt. De launcher haalt dan de kennis en de systeemprompt op in de map `Documenten/makai_rag`
    en houdt die voortaan automatisch gelijk met de andere Macs.
 6. **Instellingen**: kies **MAKAI Launcher → Open config.json** (⌘,) en vul bij `model` het chatmodel in
    dat je in LM Studio hebt gedownload.
